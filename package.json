@@ -11,8 +11,10 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.2",
+    "@types/enzyme-adapter-react-16": "^1.0.6",
     "bootstrap": "^4.6.0",
     "classnames": "^2.2.6",
+    "enzyme-adapter-react-16": "^1.15.6",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.0",
     "react-bootstrap-sidebar": "0.0.1",
@@ -52,9 +54,10 @@
   },
   "devDependencies": {
     "axios": "^0.21.1",
+    "enzyme": "^3.11.0",
+    "history": "^4.10.1",
     "reactstrap": "^8.9.0",
     "redux-devtools-extension": "^2.13.8",
-    "redux-form": "^8.3.7",
-    "history": "^4.10.1"
+    "redux-form": "^8.3.7"
   }
 }
