@@ -1,0 +1,27 @@
+@media all and (min-width: 480px) {
+    .SignUp {
+        padding: 100px 0;
+    }
+
+    .SignUp Form {
+        margin: 0 auto;
+        max-width: 400px;
+    }
+
+    .SignUp h1 {
+        margin: 0 auto;
+        max-width: 400px;
+        margin-bottom: 50px;
+    }
+
+    .SignUp h3 {
+        margin: 0 auto;
+        max-width: 400px;
+        margin-top: 50px;
+    }
+
+    .SignUp category-button {
+        padding-top: 50px;
+    }
+
+}
